@@ -15,7 +15,7 @@ La implementación de un sistema automatizado de generación de reportes para la
 ## Propósito del Proyecto
 Contar con un sistema que facilite la generación de reportes y un mejor control de los antibióticos recetados y dispensados ofrece una serie de beneficios significativos tanto para los pacientes como para el personal de la farmacia. La automatización de la generación de reportes reduce la posibilidad de errores humanos en el seguimiento de los antibióticos recetados y dispensados. Esto mejora la precisión en el registro y minimiza el riesgo de dispensar la medicación incorrecta.
 
-##Funcionamiento del programa 
+## Funcionamiento del programa 
 El programa consiste básicamente en importar datos provinientes de hojas de cálculo Excel, a una base de datos en PhpMyadmin, con el propósito de poder procesar dichos datos mediante consultas SQL para generar el reporte en formato PDF y un descargable en Excel. 
 Debido a que en el Instituto Mexicano del Seguro Social, especificamente en sus famracias almacenan su información en archivos Excel, y se opto por hacer la funcionalidad del programa de esta manera ya que es más optimo y efectivo el procesamiento de dicha información mediante consultas SQL.
 
