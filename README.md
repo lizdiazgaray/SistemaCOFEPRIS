@@ -9,8 +9,9 @@ La implementación de un sistema automatizado de generación de reportes para la
 
 1. Sobre el proyecto
 2. Propósito del proyecto
-3. Tecnologías
-4. Entorno de desarrollo
+3. Funcionamiento del programa 
+4. Tecnologías
+5. Entorno de desarrollo
 
 ## Propósito del Proyecto
 Contar con un sistema que facilite la generación de reportes y un mejor control de los antibióticos recetados y dispensados ofrece una serie de beneficios significativos tanto para los pacientes como para el personal de la farmacia. La automatización de la generación de reportes reduce la posibilidad de errores humanos en el seguimiento de los antibióticos recetados y dispensados. Esto mejora la precisión en el registro y minimiza el riesgo de dispensar la medicación incorrecta.
